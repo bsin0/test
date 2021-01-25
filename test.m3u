@@ -3,3 +3,6 @@
 https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 #EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Racing.com (576p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC Perth" tvg-language="English" tvg-logo="" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/c0454ca8272945cf8f5c3169aab5d236/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",
